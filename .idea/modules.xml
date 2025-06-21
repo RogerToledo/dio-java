@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/desafios/desafios.iml" filepath="$PROJECT_DIR$/desafios/desafios.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/dio-java.iml" filepath="$PROJECT_DIR$/.idea/dio-java.iml" />
       <module fileurl="file://$PROJECT_DIR$/exercicio/estrutura-de-controle/estrutura-de-controle.iml" filepath="$PROJECT_DIR$/exercicio/estrutura-de-controle/estrutura-de-controle.iml" />
-      <module fileurl="file://$PROJECT_DIR$/exercicio/exercicio.iml" filepath="$PROJECT_DIR$/exercicio/exercicio.iml" />
     </modules>
   </component>
 </project>
