@@ -2,9 +2,14 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/exercicio/classes/classes.iml" filepath="$PROJECT_DIR$/exercicio/classes/classes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/exercicio/classes/conta-bancaria/conta-bancaria.iml" filepath="$PROJECT_DIR$/exercicio/classes/conta-bancaria/conta-bancaria.iml" />
+      <module fileurl="file://$PROJECT_DIR$/desafios/conversor-de-temperatura/conversor-de-temperatura.iml" filepath="$PROJECT_DIR$/desafios/conversor-de-temperatura/conversor-de-temperatura.iml" />
       <module fileurl="file://$PROJECT_DIR$/desafios/desafios.iml" filepath="$PROJECT_DIR$/desafios/desafios.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/dio-java.iml" filepath="$PROJECT_DIR$/.idea/dio-java.iml" />
       <module fileurl="file://$PROJECT_DIR$/exercicio/estrutura-de-controle/estrutura-de-controle.iml" filepath="$PROJECT_DIR$/exercicio/estrutura-de-controle/estrutura-de-controle.iml" />
+      <module fileurl="file://$PROJECT_DIR$/exercicio/exercicio.iml" filepath="$PROJECT_DIR$/exercicio/exercicio.iml" />
+      <module fileurl="file://$PROJECT_DIR$/desafios/validador-de-email/validador-de-email.iml" filepath="$PROJECT_DIR$/desafios/validador-de-email/validador-de-email.iml" />
     </modules>
   </component>
 </project>
