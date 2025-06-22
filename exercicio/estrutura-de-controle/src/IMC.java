@@ -1,7 +1,7 @@
 import java.util.Scanner;
 
 public class IMC {
-    public void imc() {
+    public void calcular() {
         var scanner = new Scanner(System.in);
 
         System.out.println("Digite seu peso e altura: ");

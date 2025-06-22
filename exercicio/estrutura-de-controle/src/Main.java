@@ -13,16 +13,13 @@ public class Main {
 
         switch (exercicio) {
             case 1:
-                var tabuada = new Tabuada();
-                tabuada.Tabuada();
+                new Tabuada().imprimir();
                 break;
             case 2:
-                var imc = new IMC();
-                imc.imc();
+                new IMC().calcular();
                 break;
             case 3:
-                var parImpar = new TodosParesImpares();
-                parImpar.todosParesImpares();
+                new TodosParesImpares().executa();
                 break;
             case 4:
                 var numSeq = new NumerosSequencia();

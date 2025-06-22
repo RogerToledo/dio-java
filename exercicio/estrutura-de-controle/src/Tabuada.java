@@ -1,7 +1,7 @@
 import java.util.Scanner;
 
 public class Tabuada {
-    public void Tabuada() {
+    public void imprimir() {
         var scanner = new Scanner(System.in);
         System.out.println("Digite o número referênte a tabuada desejada: ");
 
