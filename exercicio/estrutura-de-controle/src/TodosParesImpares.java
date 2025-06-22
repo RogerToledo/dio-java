@@ -1,7 +1,7 @@
 import java.util.Scanner;
 
 public class TodosParesImpares {
-    public void TodosParesImpares() {
+    public void todosParesImpares() {
         var scanner = new Scanner(System.in);
 
         System.out.println("Digite 2 números em que o segundo seja maior que o primeiro e escolha par ou impar: ");

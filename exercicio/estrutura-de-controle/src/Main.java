@@ -22,7 +22,7 @@ public class Main {
                 break;
             case 3:
                 var parImpar = new TodosParesImpares();
-                parImpar.TodosParesImpares();
+                parImpar.todosParesImpares();
                 break;
             case 4:
                 var numSeq = new NumerosSequencia();
