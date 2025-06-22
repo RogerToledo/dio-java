@@ -25,8 +25,8 @@ public class Account {
     }
 
     public double deposit(double amount) {
-        var accoutBalance = getAccountBalance();
-        var newAccountBalance = accoutBalance + amount;
+        var accountBalance = getAccountBalance();
+        var newAccountBalance = accountBalance + amount;
 
         setAccountBalance(newAccountBalance);
 

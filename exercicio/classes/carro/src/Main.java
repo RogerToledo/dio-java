@@ -130,7 +130,6 @@ public class Main {
     private static void accelerate() {
         var isCarOn = car.isOn();
         var velocity = car.getVelocity();
-        var isVelocity = true;
         var canAccelerate = rulesAccelerate(velocity);
 
         if (isCarOn) {

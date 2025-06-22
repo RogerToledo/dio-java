@@ -10,7 +10,7 @@ public class CorporateEmailValidator {
         var validEmail = email.contains(expectedDomain);
 
         if (validEmail) {
-            System.out.println("E-mail valido");
+            System.out.println("E-mail válido");
         } else {
             System.out.println("E-mail invalido");
         }

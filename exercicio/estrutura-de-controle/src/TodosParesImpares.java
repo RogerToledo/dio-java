@@ -19,14 +19,10 @@ public class TodosParesImpares {
             if (op.equalsIgnoreCase("par")) {
                 if (mod == 0) {
                     System.out.println(i);
-                } else {
-                    continue;
                 }
             } else {
                 if (mod != 0) {
                     System.out.println(i);
-                } else {
-                    continue;
                 }
             }
         }

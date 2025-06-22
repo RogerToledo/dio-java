@@ -17,7 +17,7 @@ public class NumerosSequencia {
 
             var mod = num % inicial;
 
-            System.out.printf("%s mod %s = %s\n", num, inicial, mod);;
+            System.out.printf("%s mod %s = %s\n", num, inicial, mod);
 
             if (mod != 0) {
                 break;
