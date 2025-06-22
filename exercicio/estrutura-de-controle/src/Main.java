@@ -9,7 +9,7 @@ public class Main {
            4 - numeros sequencia
          */
 
-        var exercicio = 4;
+        var exercicio = 1;
 
         switch (exercicio) {
             case 1:
@@ -22,8 +22,7 @@ public class Main {
                 new TodosParesImpares().executa();
                 break;
             case 4:
-                var numSeq = new NumerosSequencia();
-                numSeq.NumeroSequencia();
+                new NumerosSequencia().imprime();
                 break;
             default:
                 System.out.println("Não existe esse exercicio");

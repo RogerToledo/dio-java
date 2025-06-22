@@ -1,7 +1,7 @@
 import java.util.Scanner;
 
 public class NumerosSequencia {
-    public void NumeroSequencia() {
+    public void imprime() {
         var scanner = new Scanner(System.in);
 
         System.out.println("Digite um número inicial: ");
