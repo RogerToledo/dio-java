@@ -5,6 +5,7 @@
       <module fileurl="file://$PROJECT_DIR$/exercicio/classes/carro/carro.iml" filepath="$PROJECT_DIR$/exercicio/classes/carro/carro.iml" />
       <module fileurl="file://$PROJECT_DIR$/exercicio/classes/classes.iml" filepath="$PROJECT_DIR$/exercicio/classes/classes.iml" />
       <module fileurl="file://$PROJECT_DIR$/exercicio/classes/conta-bancaria/conta-bancaria.iml" filepath="$PROJECT_DIR$/exercicio/classes/conta-bancaria/conta-bancaria.iml" />
+      <module fileurl="file://$PROJECT_DIR$/exercicio/classes/controle-de-banho/controle-de-banho.iml" filepath="$PROJECT_DIR$/exercicio/classes/controle-de-banho/controle-de-banho.iml" />
       <module fileurl="file://$PROJECT_DIR$/desafios/conversor-de-temperatura/conversor-de-temperatura.iml" filepath="$PROJECT_DIR$/desafios/conversor-de-temperatura/conversor-de-temperatura.iml" />
       <module fileurl="file://$PROJECT_DIR$/desafios/desafios.iml" filepath="$PROJECT_DIR$/desafios/desafios.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/dio-java.iml" filepath="$PROJECT_DIR$/.idea/dio-java.iml" />
