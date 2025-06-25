@@ -1,3 +1,5 @@
+import java.util.Scanner;
+
 public class WashingMachine {
     private int waterTankLevel;
     private int shampooTankLevel;
@@ -80,14 +82,16 @@ public class WashingMachine {
         var useShampoo = 2;
         var waterLevel = getWaterTankLevel();
         var shampooLevel = getShampooTankLevel();
-        var insideWashMachine = getInsideWashMachine();
+        var washMachineFull = getInsideWashMachine();
         var newWaterLevel = waterLevel - useWater;
         var newShampooLevel = shampooLevel - useShampoo;
+
 
         if (waterLevel < useWater || shampooLevel < useShampoo) {
             System.out.println("Abastecer água e shampoo antes de colocar outro pet");
         } else {
-            if (insideWashMachine == null) {
+            if (washMachineFull == null) {
+                pet = witchPet(pet);
                 setInsideWashMachine(pet);
                 setWaterTankLevel(newWaterLevel);
                 setShampooTankLevel(newShampooLevel);
@@ -98,11 +102,12 @@ public class WashingMachine {
         }
     }
 
-    public void takeOutPet() {
-        var pet = getInsideWashMachine();
+    public void takeOutPet(Pet pet) {
+        var washMachineFull = getInsideWashMachine();
 
-        if (pet != null) {
+        if (washMachineFull != null) {
             setInsideWashMachine(null);
+            pet.setClean(true);
             System.out.println("O pet foi retirado da máquina");
         } else {
             System.out.println("A máquina está vazia");
@@ -130,6 +135,18 @@ public class WashingMachine {
 
             System.out.println("Máquina limpa com sucesso");
         }
+    }
+
+    public Pet witchPet(Pet pet) {
+        var scanner = new Scanner(System.in);
+
+        System.out.println("Digite o nome do pet: ");
+
+        var name = scanner.next();
+
+        pet.setName(name);
+
+        return pet;
     }
 }
 
