@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/exercicio/heranca/acesso-de-usuario/acesso-de-usuario.iml" filepath="$PROJECT_DIR$/exercicio/heranca/acesso-de-usuario/acesso-de-usuario.iml" />
       <module fileurl="file://$PROJECT_DIR$/exercicio/interface-e-lambda/area/area.iml" filepath="$PROJECT_DIR$/exercicio/interface-e-lambda/area/area.iml" />
       <module fileurl="file://$PROJECT_DIR$/exercicio/classes/carro/carro.iml" filepath="$PROJECT_DIR$/exercicio/classes/carro/carro.iml" />
       <module fileurl="file://$PROJECT_DIR$/exercicio/classes/classes.iml" filepath="$PROJECT_DIR$/exercicio/classes/classes.iml" />
