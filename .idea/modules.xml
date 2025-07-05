@@ -4,8 +4,10 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/exercicio/heranca/acesso-de-usuario/acesso-de-usuario.iml" filepath="$PROJECT_DIR$/exercicio/heranca/acesso-de-usuario/acesso-de-usuario.iml" />
       <module fileurl="file://$PROJECT_DIR$/exercicio/interface-e-lambda/area/area.iml" filepath="$PROJECT_DIR$/exercicio/interface-e-lambda/area/area.iml" />
+      <module fileurl="file://$PROJECT_DIR$/exercicio/classes-uteis/calculadora/calculadora.iml" filepath="$PROJECT_DIR$/exercicio/classes-uteis/calculadora/calculadora.iml" />
       <module fileurl="file://$PROJECT_DIR$/exercicio/classes/carro/carro.iml" filepath="$PROJECT_DIR$/exercicio/classes/carro/carro.iml" />
       <module fileurl="file://$PROJECT_DIR$/exercicio/classes/classes.iml" filepath="$PROJECT_DIR$/exercicio/classes/classes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/exercicio/classes-uteis/classes-uteis.iml" filepath="$PROJECT_DIR$/exercicio/classes-uteis/classes-uteis.iml" />
       <module fileurl="file://$PROJECT_DIR$/exercicio/heranca/clock/clock.iml" filepath="$PROJECT_DIR$/exercicio/heranca/clock/clock.iml" />
       <module fileurl="file://$PROJECT_DIR$/exercicio/classes/conta-bancaria/conta-bancaria.iml" filepath="$PROJECT_DIR$/exercicio/classes/conta-bancaria/conta-bancaria.iml" />
       <module fileurl="file://$PROJECT_DIR$/exercicio/classes/controle-de-banho/controle-de-banho.iml" filepath="$PROJECT_DIR$/exercicio/classes/controle-de-banho/controle-de-banho.iml" />
@@ -17,6 +19,7 @@
       <module fileurl="file://$PROJECT_DIR$/exercicio/heranca/heranca.iml" filepath="$PROJECT_DIR$/exercicio/heranca/heranca.iml" />
       <module fileurl="file://$PROJECT_DIR$/exercicio/heranca/ingresso-de-cinema/ingresso-de-cinema.iml" filepath="$PROJECT_DIR$/exercicio/heranca/ingresso-de-cinema/ingresso-de-cinema.iml" />
       <module fileurl="file://$PROJECT_DIR$/exercicio/interface-e-lambda/interface-e-lambda.iml" filepath="$PROJECT_DIR$/exercicio/interface-e-lambda/interface-e-lambda.iml" />
+      <module fileurl="file://$PROJECT_DIR$/exercicio/classes-uteis/threads/threads.iml" filepath="$PROJECT_DIR$/exercicio/classes-uteis/threads/threads.iml" />
       <module fileurl="file://$PROJECT_DIR$/desafios/validador-de-email/validador-de-email.iml" filepath="$PROJECT_DIR$/desafios/validador-de-email/validador-de-email.iml" />
     </modules>
   </component>
